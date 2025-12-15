@@ -1,12 +1,13 @@
 import AboutMe from '@/components/AboutMe'
 import Intro from '@/components/Intro'
-import React from 'react'
+import MyProject from '@/components/MyProject'
 
 const page = () => {
   return (
     <div >
       <Intro/>
       <AboutMe/>
+      <MyProject/>
     </div>
   )
 }
