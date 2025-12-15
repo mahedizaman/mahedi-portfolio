@@ -4,10 +4,10 @@ import Container from './Container'
 const AboutMe = () => {
   return (
     <Container>
-      <h3 className="font-bold text-gray-700 text-xl sm:text-2xl sm:text-left mb-4">
+      <h3 className="font-bold text-gray-400 text-xl sm:text-2xl sm:text-left mb-4">
         About Me
       </h3>
-      <span className="flex flex-col gap-4 px-4 sm:px-0 max-w-7xl mx-auto text-sm sm:text-base leading-relaxed sm:leading-7 text-gray-700 text-justify sm:text-left">
+      <span className="flex flex-col gap-4 px-4 sm:px-0 max-w-7xl mx-auto text-sm sm:text-base leading-relaxed sm:leading-7 text-gray-400 text-justify sm:text-left">
         <p>
           I am a frontend-focused web developer with a strong interest in
           building clean, responsive, and user-friendly interfaces. I work
