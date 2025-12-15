@@ -1,6 +1,7 @@
 import AboutMe from '@/components/AboutMe'
 import Intro from '@/components/Intro'
 import MyProject from '@/components/MyProject'
+import ResumeSection from '@/components/ResumeSection'
 
 const page = () => {
   return (
@@ -8,6 +9,7 @@ const page = () => {
       <Intro/>
       <AboutMe/>
       <MyProject/>
+      <ResumeSection/>
     </div>
   )
 }
